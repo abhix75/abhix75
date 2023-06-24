@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Js,Express,NodeJs,**
+- 💬 Ask me about **Data Structure**
 
 - 📫 How to reach me **abhijitmishraak10@gmail.com**
 
