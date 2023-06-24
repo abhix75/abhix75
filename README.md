@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mishra</h1>
-<h3 align="center">A passionate Backend developer from India</h3>
+<h3 align="center">A Passionate Backend Developer From India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix75&label=Profile%20views&color=0e75b6&style=flat" alt="abhix75" /> </p>
 
