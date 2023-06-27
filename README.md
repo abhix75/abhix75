@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Abhijit Mishra</h1>
-<h3 align="center">A Passionate Backend Developer From India</h3>
+<h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix75&label=Profile%20views&color=0e75b6&style=flat" alt="abhix75" /> </p>
 
-- 🔭 I’m currently working on **Airline Booking system**
+- 🔭 I’m currently working on **Airline Booking system [MicroService]**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Problem Solving**
+- 💬 Ask me about **Backend Concept**
 
 - 📫 How to reach me **abhijitmishraak10@gmail.com**
 
