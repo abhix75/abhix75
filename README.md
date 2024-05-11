@@ -3,9 +3,9 @@
 <img align="right" alt="Coding" width="400" src= "https://media.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhix75&label=Profile%20views&color=0e75b6&style=flat" alt="abhix75" /> </p>
 
-- 🔭 I’m currently working on **Airline Booking system [MicroService]**
+- 🔭 I’m currently working on **Code-Editor(Algocode)[MicroService]**
 
-- 🌱 I’m currently learning **React**
+- 🌱 Ex-SDE Intern  **Code Inbound LLP**
 
 - 💬 Ask me about **Backend Concept**
 
