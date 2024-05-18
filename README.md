@@ -7,7 +7,7 @@
 
 - 🌱 Ex-SDE Intern  **Code Inbound LLP**
 
-- 💬 Ask me about **Backend Concept**
+- 💬 Ask me about **Spring-Boot**
 
 - 📫 How to reach me **abhijitmishraak10@gmail.com**
 
